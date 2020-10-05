@@ -22,6 +22,7 @@ public class Main {
         }
         int a1 = Integer.parseInt(a.trim());
         int b1 = Integer.parseInt(b.trim());
+        int ff = 0;
 
 
         if (x.equals("+")) {
